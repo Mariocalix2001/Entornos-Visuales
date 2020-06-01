@@ -1,0 +1,12 @@
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\bin\Debug\For ejercicio en clase.exe.config
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\bin\Debug\For ejercicio en clase.exe
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\bin\Debug\For ejercicio en clase.pdb
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\bin\Debug\For ejercicio en clase.xml
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For ejercicio en clase.vbprojAssemblyReference.cache
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For_ejercicio_en_clase.Form1.resources
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For_ejercicio_en_clase.Resources.resources
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For ejercicio en clase.vbproj.GenerateResource.cache
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For ejercicio en clase.vbproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For ejercicio en clase.exe
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For ejercicio en clase.xml
+C:\Users\mario\source\repos\For ejercicio en clase\For ejercicio en clase\obj\Debug\For ejercicio en clase.pdb
