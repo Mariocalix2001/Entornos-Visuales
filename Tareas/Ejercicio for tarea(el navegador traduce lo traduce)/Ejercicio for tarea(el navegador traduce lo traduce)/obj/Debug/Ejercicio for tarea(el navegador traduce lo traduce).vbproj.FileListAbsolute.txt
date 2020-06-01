@@ -1,0 +1,12 @@
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\bin\Debug\Ejercicio for tarea(el navegador traduce lo traduce).exe.config
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\bin\Debug\Ejercicio for tarea(el navegador traduce lo traduce).exe
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\bin\Debug\Ejercicio for tarea(el navegador traduce lo traduce).pdb
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\bin\Debug\Ejercicio for tarea(el navegador traduce lo traduce).xml
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio_for_tarea_el_navegador_traduce_lo_traduce_.Form1.resources
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio_for_tarea_el_navegador_traduce_lo_traduce_.Resources.resources
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio for tarea(el navegador traduce lo traduce).vbproj.GenerateResource.cache
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio for tarea(el navegador traduce lo traduce).vbproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio for tarea(el navegador traduce lo traduce).exe
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio for tarea(el navegador traduce lo traduce).xml
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio for tarea(el navegador traduce lo traduce).pdb
+C:\Users\mario\source\repos\Ejercicio for tarea(el navegador traduce lo traduce)\Ejercicio for tarea(el navegador traduce lo traduce)\obj\Debug\Ejercicio for tarea(el navegador traduce lo traduce).vbprojAssemblyReference.cache
