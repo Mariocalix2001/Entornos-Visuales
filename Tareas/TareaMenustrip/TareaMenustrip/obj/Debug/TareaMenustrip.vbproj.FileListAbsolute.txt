@@ -1,0 +1,12 @@
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\bin\Debug\TareaMenustrip.exe.config
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\bin\Debug\TareaMenustrip.exe
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\bin\Debug\TareaMenustrip.pdb
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\bin\Debug\TareaMenustrip.xml
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.vbprojAssemblyReference.cache
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.Form1.resources
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.Resources.resources
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.vbproj.GenerateResource.cache
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.vbproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.exe
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.xml
+C:\Users\mario\source\repos\TareaMenustrip\TareaMenustrip\obj\Debug\TareaMenustrip.pdb
