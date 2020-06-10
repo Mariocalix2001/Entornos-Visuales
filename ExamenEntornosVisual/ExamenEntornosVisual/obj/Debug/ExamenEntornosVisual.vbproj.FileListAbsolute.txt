@@ -1,0 +1,13 @@
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.vbprojAssemblyReference.cache
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.Especificaciones.resources
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.Form2.resources
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.Resources.resources
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.vbproj.GenerateResource.cache
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.vbproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\bin\Debug\ExamenEntornosVisual.exe.config
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\bin\Debug\ExamenEntornosVisual.exe
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\bin\Debug\ExamenEntornosVisual.pdb
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\bin\Debug\ExamenEntornosVisual.xml
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.exe
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.xml
+C:\Users\mario\source\repos\ExamenEntornosVisual\ExamenEntornosVisual\obj\Debug\ExamenEntornosVisual.pdb
