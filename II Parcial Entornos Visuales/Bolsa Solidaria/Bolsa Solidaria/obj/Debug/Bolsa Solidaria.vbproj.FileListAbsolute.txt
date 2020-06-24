@@ -1,0 +1,12 @@
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\bin\Debug\Bolsa Solidaria.exe.config
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\bin\Debug\Bolsa Solidaria.exe
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\bin\Debug\Bolsa Solidaria.pdb
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\bin\Debug\Bolsa Solidaria.xml
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa Solidaria.vbprojAssemblyReference.cache
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa_Solidaria.Form1.resources
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa_Solidaria.Resources.resources
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa Solidaria.vbproj.GenerateResource.cache
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa Solidaria.vbproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa Solidaria.exe
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa Solidaria.xml
+C:\Users\mario\source\repos\Bolsa Solidaria\Bolsa Solidaria\obj\Debug\Bolsa Solidaria.pdb
