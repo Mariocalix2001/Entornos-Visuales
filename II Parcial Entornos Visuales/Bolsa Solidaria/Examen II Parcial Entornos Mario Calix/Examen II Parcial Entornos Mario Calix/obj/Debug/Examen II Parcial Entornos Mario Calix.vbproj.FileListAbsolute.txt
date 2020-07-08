@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen II Parcial Entornos Mario Calix.vbprojAssemblyReference.cache
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen_II_Parcial_Entornos_Mario_Calix.Cliente.resources
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen_II_Parcial_Entornos_Mario_Calix.Form1.resources
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen_II_Parcial_Entornos_Mario_Calix.Resources.resources
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen II Parcial Entornos Mario Calix.vbproj.GenerateResource.cache
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen II Parcial Entornos Mario Calix.vbproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\bin\Debug\Examen II Parcial Entornos Mario Calix.exe.config
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\bin\Debug\Examen II Parcial Entornos Mario Calix.exe
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\bin\Debug\Examen II Parcial Entornos Mario Calix.pdb
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\bin\Debug\Examen II Parcial Entornos Mario Calix.xml
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen II Parcial Entornos Mario Calix.exe
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen II Parcial Entornos Mario Calix.xml
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen II Parcial Entornos Mario Calix.pdb
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen_II_Parcial_Entornos_Mario_Calix.Venta.resources
+C:\Users\mario\source\repos\Examen II Parcial Entornos Mario Calix\Examen II Parcial Entornos Mario Calix\obj\Debug\Examen_II_Parcial_Entornos_Mario_Calix.Menu1.resources
