@@ -1,0 +1,12 @@
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\bin\Debug\Tienda III Parcial.exe.config
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\bin\Debug\Tienda III Parcial.exe
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\bin\Debug\Tienda III Parcial.pdb
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\bin\Debug\Tienda III Parcial.xml
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Proyecto Clase l.vbprojAssemblyReference.cache
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Tienda_III_Parcial.frmUsuario.resources
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Tienda_III_Parcial.Resources.resources
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Proyecto Clase l.vbproj.GenerateResource.cache
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Proyecto Clase l.vbproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Tienda III Parcial.exe
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Tienda III Parcial.xml
+C:\Users\mario\Downloads\Mario Calix Proyecto\Proyecto clase\obj\Debug\Tienda III Parcial.pdb

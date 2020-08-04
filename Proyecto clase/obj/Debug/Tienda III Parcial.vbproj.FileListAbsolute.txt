@@ -1,0 +1,24 @@
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\bin\Debug\Tienda III Parcial.exe.config
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\bin\Debug\Tienda III Parcial.exe
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\bin\Debug\Tienda III Parcial.pdb
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\bin\Debug\Tienda III Parcial.xml
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda III Parcial.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda_III_Parcial.frmUsuario.resources
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda_III_Parcial.Resources.resources
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda III Parcial.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda III Parcial.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda III Parcial.exe
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda III Parcial.xml
+C:\Users\PC\source\repos\HugoMurillo-IIP-IF325-III-master\HugoMurillo-IIP-IF325-III-master\Tienda III Parcial\obj\Debug\Tienda III Parcial.pdb
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\bin\Debug\Tienda III Parcial.exe.config
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\bin\Debug\Tienda III Parcial.exe
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\bin\Debug\Tienda III Parcial.pdb
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\bin\Debug\Tienda III Parcial.xml
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda III Parcial.vbprojAssemblyReference.cache
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda_III_Parcial.frmUsuario.resources
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda_III_Parcial.Resources.resources
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda III Parcial.vbproj.GenerateResource.cache
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda III Parcial.vbproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda III Parcial.exe
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda III Parcial.xml
+C:\Users\mario\Downloads\Tienda Emerson\Tienda III Parcial\obj\Debug\Tienda III Parcial.pdb
